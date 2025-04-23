@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JioRobots.com - Domain for Sale</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #0077ff, #00c6ff);
+      color: #fff;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.3em;
+    }
+    p {
+      font-size: 1.3em;
+      max-width: 600px;
+      margin-bottom: 2em;
+    }
+    a.button {
+      background-color: #fff;
+      color: #0077ff;
+      padding: 0.8em 1.5em;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+    a.button:hover {
+      background-color: #e0e0e0;
+    }
+    footer {
+      position: absolute;
+      bottom: 20px;
+      font-size: 0.9em;
+      color: #d0eaff;
+    }
+  </style>
+</head>
+<body>
+  <h1>JioRobots.com</h1>
+  <p>This premium domain is available for acquisition. Perfect for companies innovating in Robotics, AI, and Automation.
+  A strategic fit for Jio's future in smart tech.</p>
+  <a class="button" href="mailto:mranonymous2102@gmail.com">Contact to Acquire</a>
+  <footer>
+    Registered by Surya | 2025
+  </footer>
+</body>
+</html>
